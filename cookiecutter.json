@@ -1,6 +1,5 @@
 {
 	"module_name": "replace with the name of the python module",
-	"service": "replace with the service it implements",
 	"repo_group": "opentelekomcloud",
 	"repo_name": "replace with the name for the git repo",
 	"project_short_description": "OpenTelekomCloud Boilerplate contains all the boilerplate you need to create an OpenTelekomCloud package."

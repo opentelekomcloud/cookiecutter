@@ -2,7 +2,7 @@
 cookiecutter-opentelekomcloud
 =============================
 
-Cookiecutter template for an Open Teleko Cloud project. See https://github.com/audreyr/cookiecutter.
+Cookiecutter template for an Open Telekom Cloud project. See https://github.com/audreyr/cookiecutter.
 
 * Free software: Apache license
 * pbr_: Set up to use Python Build Reasonableness
